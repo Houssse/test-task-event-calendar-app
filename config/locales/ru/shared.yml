@@ -1,0 +1,9 @@
+ru:
+  shared:
+    nav:
+      events: События
+      home: Главная
+      edit_profile: Редактировать профиль
+      logout: Выйти
+      sign_in: Войти
+      sign_up: Зарегистрироваться

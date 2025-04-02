@@ -1,0 +1,16 @@
+ru:
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              blank: "Почта не может быть пустой"
+            password:
+              blank: "Пароль не может быть пустым"
+      messages:
+        blank: "не может быть пустым"
+  attributes:
+    user:
+      email: "Почта"
+      password: "Пароль"
